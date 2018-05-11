@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "201411614283",
+    "firebase_url": "https://newcarpooling.firebaseio.com",
+    "project_id": "newcarpooling",
+    "storage_bucket": "newcarpooling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201411614283:android:2658f7b9594ac319",
+        "android_client_info": {
+          "package_name": "com.example.mahmoud.newcarpooling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201411614283-g56v2thnqgqaop0vtgtp2bhtolknlda0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmoud.newcarpooling",
+            "certificate_hash": "5237c8f347fa071710aeba22f00b5bcdec8a1617"
+          }
+        },
+        {
+          "client_id": "201411614283-dbt4t2e6u6gvsrt3dq02mlc399hifjbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5iM90N4OOWrxIxH-UP-uq1NElCdNc-ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201411614283-dbt4t2e6u6gvsrt3dq02mlc399hifjbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201411614283:android:8588b8f10671dbfb",
+        "android_client_info": {
+          "package_name": "com.example.mahmoud.carpoolingv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201411614283-ljdf5gt5gn7pjp3j78d4lj2jd4qabi35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmoud.carpoolingv1",
+            "certificate_hash": "5237c8f347fa071710aeba22f00b5bcdec8a1617"
+          }
+        },
+        {
+          "client_id": "201411614283-dbt4t2e6u6gvsrt3dq02mlc399hifjbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5iM90N4OOWrxIxH-UP-uq1NElCdNc-ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201411614283-dbt4t2e6u6gvsrt3dq02mlc399hifjbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

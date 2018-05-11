@@ -1,0 +1,109 @@
+<resources>
+
+    <!--- facebook -->
+    <string name="facebook_app_id">1310897462379586</string>
+    <string name="fb_login_protocol_scheme">fb1310897462379586</string>
+
+    <!-- Comunity Chooser-->
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_try">Map</string>
+
+    <string name="app_name">سافر</string>
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="error_username_empry">Username cannot be empty</string>
+    <string name="error_password_empry">Password cannot be empty</string>
+    <string name="error_login_invalid">Invalid Login</string>
+    <string name="error_google_services_conection">can not connect to Google services. Try later.</string>
+    <string name="permission_denied">Permit not accepted</string>
+    <string name="driver">سائق</string>
+    <string name="passenger">مسافر</string>
+    <!-- Main menu texts-->
+    <string name="text_menu_my_profile">الصفحة الشخصية</string>
+    <string name="text_menu_my_quota">مشاركة الرحلة</string>
+    <string name="text_menu_map">خريطة</string>
+    <string name="text_menu_information_app">معلومات</string>
+    <string name="text_menu_configuration">اعدادات</string>
+
+    <string name="text_start_travel">ابدأ الرحلة</string>
+    <string name="my_profile_driver">سائق</string>
+    <string name="text_community">Destination: Minia University</string>
+    <string name="request_booking_text">قبول</string>
+    <string name="cancel_booking_text">لا, شكرا.</string>
+    <string name="hour_map">"ساعة الوصول"</string>
+    <string name="date_map">"يوم السفر"</string>
+    <!--- facebook -->
+    <string name="loginfb_cancel"> الالغاء الدخول</string>
+    <string name="loginfb_error">خطأ في الدخول</string>
+    <string name="loginfirebase_error">خطأ في الوصول للبيانات</string>
+    <!-- Comunity Chooser-->
+    <string name="choose_community">اختار المجموعة</string>
+    <string name="txt_Minya">’Minya</string>
+    <string name="txt_javeriana">College</string>
+    <!-- Register Screen-->
+    <string name="register">تسجيل</string>
+    <string name="register_name">تسجيل الاسم</string>
+    <string name="register_email">تسجيل الايميل</string>
+    <string name="register_phone">تسجيل رقم الهاتف</string>
+    <string name="register_btn">االتالي</string>
+    <!-- Errors texts -->
+    <string name="error_empty_date">يجب اختيار التاريخ</string>
+    <string name="error_empty_hour">يجب اختيار الوقت</string>
+    <string name="error_empty_community">يجب اختيار المجموعة</string>
+    <string name="error_empty_coordinates">لم يتم اكتشاف الموقع الحالي.</string>
+    <string name="error_empty_from_or_to">يجب عليك اختيار مكان الرحيل والوصول</string>
+
+    <string name="text_cancel_booking">انهاء البحث</string>
+    <string name="my_booking_passenger_searching">"جار البحث …"</string>
+    <string name="my_booking_passenger_description">انتظر قليلا انت علي وشك الوصول</string>
+    <string name="my_booking_passenger_button_cancel_booking">الغاء الرحلة</string>
+    <string name="my_booking_passenger_not_selected_values">لم يتم تحديد بيانات رحلتك</string>
+    <string name="network_not_available">لا يوجد اتصال بالانترنت</string>
+    <string name="error_empty_fields">يجب ملئ جميع الحقول</string>
+    <string name="error_phone_number_characters">يجب أن يحتوي رقم هاتفك الجوال على 11 ارقام .Ex: 0123456789</string>
+    <string name="dialog_request_booking">¿هل تريد طلب هذه الرحلة الجديدة؟</string>
+    <string name="dialog_starting_point_description">نقطة البداية:</string>
+    <string name="final_point_description">وجهة النهاية :</string>
+    <string name="already_data_choosen_driver">لقد حددت بيانات السائق بالفعل, الغاء المسار لاختيار واحد اخر</string>
+    <string name="already_data_choosen_passenger">لقد حددت بيانات المسافر بالفعل, الغاء المسار لاختيار واحد اخر</string>
+    <string name="deleted_hour_and_date">لا شيء تغير الدور. تم محو الوقت والتاريخ</string>
+    <string name="error_time_range">خطأ في نطاق الوقت Ej: 6:30, 5:00</string>
+    <string name="title_activity_video">Tutorial</string>
+    <string name="txt_app_title">Safer</string>
+    <string name="txt_app_slogan">Share You Ride </string>
+    <string name="text_i_am_drvier">انا سائق</string>
+    <string name="text_i_am_passenger">انا مسافر</string>
+    <!-- Terms and conditions -->
+    <string name="terms_and_condition_title">الشروط و الاحكام</string>
+    <string name="terms_and_condition_content">
+        الشروط والاحكام
+    </string>
+    <string name="terms_and_condition_accept">
+       أوافق على معالجة بياناتي الشخصية، وقد قرأت البنود وأوافق علي الشروط والأحكام.
+</string>
+    <string name="close_sesion">اغلاق الصفحة</string>
+    <string name="report_issue">الأبلاغ عن مشكلة</string>
+    <string name="btn_copy_text">نسخ</string>
+    <string name="car_plate">لوحة السيارة</string>
+    <string name="car_color">لون</string>
+    <string name="car_model">موديل</string>
+    <string name="are_your_driver">أنت سائق؟</string>
+    <string name="certificate_user">شهادة المستخدم</string>
+    <string name="txt_route_description">وصف الطريق</string>
+    <string name="text_configuration">الاعدادات</string>
+    <string name="btn_cancel_driver">الغاء السائق</string>
+    <string name="departure_date_message">تاريخ</string>
+    <string name="arrival_date_message">تاريخ الوصول</string>
+    <string name="departure_hour_message">وقت المغادرة</string>
+    <string name="arrival_hour_message">وقت الوصول</string>
+    <string name="close_facebook">إلغاء ربط حساب فيسبوك</string>
+    <string name="accept_booking_text">قبول</string>
+    <string name="report_user">تقرير المستخدم</string>
+    <string name="txt_icesi">عائلي</string>
+    <string name="comnuity">مجموعة الجامعة</string>
+
+
+
+
+
+
+</resources>
